@@ -29,7 +29,8 @@ I'm currently pursuing my Bachelor's in Computer Science and Engineering at LNCT
 ## Get in Touch 📬
 
 - **Email**: [shivamsopra1@gmail.com] <!-- Replace with your actual email -->
-
+- Connect with me on [Instagram](https://www.instagram.com/shvm_98)
+  
 Feel free to explore my repositories!
 
 <!-- Profile View Counter -->
