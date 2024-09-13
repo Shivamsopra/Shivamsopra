@@ -5,7 +5,7 @@
 
 I’m a BTech CSE student at "LNCT College, Bhopal". I love coding and exploring new technologies. Eager to learn and tackle real-world challenges, I’m passionate about creating impactful solutions in web development and machine learning.
 
-![LNCT College](https://your-image-url.com/lntc-college.jpg) <!-- Replace with actual image URL -->
+![LNCT College](https://images.app.goo.gl/wYM3pc9nd8nym12Q7) <!-- Replace with actual image URL -->
 
 ## About Me 👨‍💻
 I'm currently pursuing my Bachelor's in Computer Science and Engineering at LNCT College, Bhopal. Passionate about technology and always looking for ways to grow and innovate!
