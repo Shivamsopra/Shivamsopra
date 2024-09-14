@@ -3,7 +3,7 @@
 
 # Hi, I'm Shivam sopra! 🚀
 
-I’m a BTech CSE student at "LNCT College, Bhopal". I love coding and exploring new technologies. Eager to learn and tackle real-world challenges, I’m passionate about creating impactful solutions in web development and machine learning.
+I’m a ambitious BTech CSE student at "LNCT College, Bhopal". I love coding and exploring new technologies. Eager to learn and tackle real-world challenges, I’m passionate about creating impactful solutions in web development and machine learning.
 
 ![LNCT College](https://images.app.goo.gl/wYM3pc9nd8nym12Q7) <!-- Replace with actual image URL -->
 
