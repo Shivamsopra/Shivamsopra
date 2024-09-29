@@ -20,7 +20,7 @@ I'm currently pursuing my Bachelor's in Computer Science and Engineering at LNCT
 
 ## Skills 💻
 
-- **Programming Languages**: Python, Java, C++
+- **Programming Languages**: Java, C++
 - **Technologies**: HTML, CSS, JavaScript,
 - **Tools**: Git , VSCode
 
