@@ -1,48 +1,240 @@
- <!-- Header Image -->
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+<div align="center">
 
-# Hi, I'm Shivam sopra! 🚀
+<!-- Animated header -->
 
-I’m a ambitious BTech CSE student at "LNCT College, Bhopal". I love coding and exploring new technologies. Eager to learn and tackle real-world challenges, I’m passionate about creating impactful solutions in web development and machine learning.
+# SHIVAM SOPRA
 
-## About Me 👨‍💻
-I'm currently pursuing my Bachelor's in Computer Science and Engineering at LNCT College, Bhopal. Passionate about technology and always looking for ways to grow and innovate!
+### `CSE`  ·  `AI & ML`  ·  `Software Engineering`
 
-## Currently Exploring 🔍
+<img src="https://komarev.com/ghpvc/?username=Shivamsopra&style=for-the-badge&label=PROFILE+VIEWS" />
 
-- **Web Development**: Deepening my knowledge in HTML, CSS, and JavaScript.
-- **Machine Learning**: Diving into algorithms and data science.
-- **Open Source**: Actively seeking opportunities to contribute and collaborate with the community.
+<br>
 
-## Projects 🚧
+<a href="https://github.com/Shivamsopra">
+<img src="https://img.shields.io/badge/GitHub-Shivamsopra-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:shivamsopra1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/shvm_98">
+<img src="https://img.shields.io/badge/Instagram-shvm__98-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-- **Projects are on the way**: Stay tuned for exciting projects that I’m currently working on.
+<br><br>
 
-## Skills 💻
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1800&color=6E9EFF&center=true&vCenter=true&width=600&lines=Building+software+with+intelligence.;Turning+data+into+useful+systems.;Learning+by+building%2C+breaking+%26+improving." />
 
-- **Programming Languages**: Java, C++
-- **Technologies**: HTML, CSS, JavaScript,
-- **Tools**: Git , VSCode
+</div>
 
-## Get in Touch 📬
+---
 
-- **Email**: [shivamsopra1@gmail.com] <!-- Replace with your actual email -->
-- Connect with me on [Instagram](https://www.instagram.com/shvm_98)
-  
-Feel free to explore my repositories!
+## ✦ About
 
-<!-- Profile View Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=shivamsopra&style=flat-square&color=blue)
+I'm a **Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning** at **Lakshmi Narain College of Technology, Bhopal**.
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamsopra&show_icons=true&theme=radical)
+My interests sit where **software engineering, data and artificial intelligence** meet.
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsopra&layout=compact&theme=radical)
+I enjoy taking an idea through the complete journey:
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamsopra&theme=radical)
+**data → logic → model → application**
 
-<!-- Footer Image -->
-![Footer](https://via.placeholder.com/1200x300.png?text=Thank+You+for+Visiting+My+Profile)
+I learn best by actually building things — experimenting with code, understanding failures, debugging them, and improving the result.
+
+---
+
+## ⚡ The Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js" />
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+<br><br>
+
+### Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+# ◈ Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌱 AgriCureAI
+
+**Computer Vision · Deep Learning**
+
+An AI-powered plant disease detection application built around a CNN-based image classification pipeline.
+
+**Built with**
+
+`Python` `TensorFlow` `Keras` `CNN`
+
+**Focus**
+
+Model development → evaluation → practical application
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 BreedBotics
+
+**Artificial Intelligence · Classification**
+
+An AI/ML project focused on applying intelligent classification techniques to a practical problem.
+
+**Built with**
+
+`Python` `Machine Learning` `AI`
+
+**Focus**
+
+Data → model → application-oriented implementation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Intelligent Automation
+
+**AI · APIs · Workflow Systems**
+
+Exploring how AI, APIs and workflow orchestration can be combined to create systems that coordinate complex processes.
+
+**Concepts**
+
+`AI` `APIs` `RAG` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Experimental Builds
+
+**Learning through implementation**
+
+Small experiments, algorithms, data workflows and AI concepts used to understand technology by actually implementing it.
+
+**Areas**
+
+`Python` `Data` `ML` `AI` `APIs`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⟡ Areas I Work With
+
+<div align="center">
+
+| 🤖 AI | 📊 Data | 🧠 Intelligence |
+|:---:|:---:|:---:|
+| Machine Learning | Data Science | NLP |
+| Deep Learning | NumPy / Pandas | Computer Vision |
+| LLM Applications | EDA | AI Engineering |
+
+<br>
+
+| 💻 Software | 🛠 Engineering |
+|:---:|:---:|
+| Java / C++ / Python | Git & GitHub |
+| APIs & Applications | Development Tools |
+
+</div>
+
+---
+
+# ⌁ How I Build
+
+<div align="center">
+
+`UNDERSTAND`
+
+↓  
+
+`IMPLEMENT`
+
+↓
+
+`EXPERIMENT`
+
+↓
+
+`DEBUG`
+
+↓
+
+`BUILD`
+
+↓
+
+`IMPROVE`
+
+<br><br>
+
+### **Build it. Break it. Understand it.**
+
+</div>
+
+I care about more than simply making something work.
+
+I want to understand **why it works, why it fails, and how it can be made better.**
+
+---
+
+# ◇ Currently Exploring
+
+<div align="center">
+
+`Data Science` &nbsp; `Machine Learning` &nbsp; `Deep Learning`
+
+`NLP` &nbsp; `LLM Applications` &nbsp; `RAG`
+
+`AI Engineering` &nbsp; `APIs` &nbsp; `Automation`
+
+</div>
+
+---
+
+<div align="center">
+
+### `CODE  ×  DATA  ×  INTELLIGENCE`
+
+<br>
+
+<a href="https://github.com/Shivamsopra">
+<img src="https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.;Always+building.+Always+learning." />
+
+</div>
